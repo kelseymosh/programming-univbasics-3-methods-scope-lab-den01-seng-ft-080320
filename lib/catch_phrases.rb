@@ -14,6 +14,7 @@ def link
 end
 link
 
-def all_phrases
-  return #{mario} #{toadstool} #{link}
+def all_phrases(mario,toadstool,link)
+  puts all_phrases
+  return all_phrases
 end
