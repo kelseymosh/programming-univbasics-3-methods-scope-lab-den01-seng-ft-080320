@@ -15,5 +15,5 @@ end
 link
 
 def all_phrases
-  puts #{mario} #{toadstool} #{link}
+  return #{mario} #{toadstool} #{link}
 end
