@@ -14,7 +14,8 @@ def link
 end
 link
 
-def all_phrases(mario,toadstool,link)
-  puts all_phrases
-  return all_phrases
+def all_phrases
+  puts phrase = "It's-a me, Mario!"
+  puts phrase = "Thank You Mario! But Our Princess Is In Another Castle!"
+  puts phrase = "It's Dangerous To Go Alone! Take This."
 end
